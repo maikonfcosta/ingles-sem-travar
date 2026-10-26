@@ -1,0 +1,5 @@
+.git
+artifacts
+checks
+qa-ci-local.ps1
+README.md
